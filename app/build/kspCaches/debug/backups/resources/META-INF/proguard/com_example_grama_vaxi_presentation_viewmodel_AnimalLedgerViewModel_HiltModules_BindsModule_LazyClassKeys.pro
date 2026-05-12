@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.example.grama_vaxi.presentation.viewmodel.AnimalLedgerViewModel
